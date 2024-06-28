@@ -27,6 +27,17 @@ Contextual Understanding: The bot often fails to maintain context in multi-turn 
 The development of the agricultural bot marks a significant step towards providing targeted, real-time information and support to farmers, researchers, policymakers, and consumers. While the bot excels in delivering domain-specific knowledge and recommendations, its limitations in handling general conversational queries highlight areas for further improvement. Enhancing the bot's conversational flexibility and contextual understanding will be crucial in creating a more engaging and user-friendly experience. Future iterations should focus on broadening the training data to include everyday language and refining natural language processing capabilities. With these advancements, the bot can become a comprehensive tool, driving informed decision-making and sustainable practices in the agricultural sector.
 
 
+**Link LLM Model**
+https://colab.research.google.com/drive/1z9lT9G8R2fk6-yOwIPokrF9eyrv_P4wx?usp=sharing
+
+**Link RAG Model**
+https://colab.research.google.com/drive/1moQNL2A1dJTp6ZFCAMJt-bOlwwfl5NDt?usp=sharing
+
+**Limitations [RAG Model]**
+	The agricultural bot, developed using a large language model (LLM), effectively provides domain-specific information but struggles with handling general conversational queries, such as greetings. To address this, we explored the integration of Retrieval-Augmented Generation (RAG) without significant improvement.
+
+ **Conclusion [RAG Model]**
+ 	This model enhances response accuracy by retrieving relevant information from a large knowledge base or document repository, ensuring up-to-date and precise answers. It excels in handling rare or specific queries that may not be well-covered by traditional training data alone, thereby expanding the bot's capability to address diverse user inquiries. Moreover, RAG's scalability allows for seamless integration of extensive external data sources, supporting broader and more comprehensive responses. Ultimately, RAG enables the generation of contextually rich answers, improving the overall user experience in interactive applications.
 
 
 **Notes**
